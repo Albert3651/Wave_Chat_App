@@ -2,8 +2,8 @@ import 'dotenv/config';
 
 export default {
   "expo": {
-    "name": "ChatApp",
-    "slug": "ChatApp",
+    "name": "Our_wave_app_project",
+    "slug": "Wave_dime",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
